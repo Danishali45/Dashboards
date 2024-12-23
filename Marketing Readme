@@ -1,0 +1,53 @@
+_Marketing Campaign Analysis - Power BI Dashboard_
+This repository contains a Power BI dashboard project that visualizes and analyzes a company's marketing campaign, providing insights into customer engagement and response patterns across various demographics.
+
+Problem Statement
+The marketing department needed a detailed analysis of their recent campaign to evaluate its effectiveness. The goal was to gain insights into customer behavior and responses, allowing for improved targeting and campaign strategies.
+
+Task List
+As a data analyst, my responsibilities included:
+
+Dashboard Creation: Building an interactive Power BI dashboard to visualize key metrics and insights.
+Response Analysis: Analyzing customer responses based on age, marital status, education, and contact type.
+Campaign Optimization: Identifying actionable insights for future campaign improvements.
+Data Model
+The dataset included customer demographics, contact details, and response data. The key dimensions for analysis were:
+
+Gender
+Marital Status
+Education
+Age Group
+Contact Type
+Key Metrics
+The dashboard highlights the following key metrics:
+
+Total Contacts: 44K customers contacted.
+Total Customers: 494M customers engaged.
+Positive Responses: 1,815 customers responded positively.
+Campaign Duration: 4 months (Total).
+Segmentation Analysis
+Contact Type:
+64.69% of customers were contacted via cell phone.
+28.4% of contacts were unknown.
+Education Level:
+51.66% of customers were university graduates.
+29.15% were secondary school graduates.
+Marital Status:
+Married customers had the highest response rate (9.5K), followed by single (4.4K), and divorced (1.8K).
+Customer Response by Demographics
+Age Group: Younger customers, particularly teenagers, showed the highest engagement.
+Monthly Response: May had the highest customer responses (4.8K), followed by July (2.4K).
+Insights & Learnings
+Contact Method: Cell phones were the most effective channel for customer outreach.
+Demographics: Married and university-educated customers responded more positively.
+Campaign Timing: May and July showed the highest engagement, making them optimal months for future campaigns.
+Power BI Features Used
+Slicers: Used for filtering data by gender, marital status, education, and age group, allowing for interactive analysis.
+Visualizations: Created pie charts, bar graphs, and other visual elements to effectively communicate data insights.
+Actionable Recommendations
+Targeting: Focus future campaigns on married and university-educated customers for better engagement.
+Timing: Plan future campaigns around May and July for higher response rates.
+Outreach Method: Continue prioritizing cell phone contacts as they resulted in the highest positive responses.
+Conclusion
+This Power BI dashboard enables the marketing team to understand customer behavior and optimize future campaigns through data-driven decisions.
+
