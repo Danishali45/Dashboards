@@ -1,45 +1,40 @@
-# Dashboard
+Super Market Sales Analysis - Power BI
 
-A dashboard is a visual representation of data, information, or key performance indicators (KPIs) that provides a quick and easily accessible overview of a specific set of metrics or business processes. Dashboards are commonly used in various fields, including business, finance, healthcare, and technology, to monitor and analyze important information at a glance. Here are some key aspects to consider when discussing dashboards:
+As part of my ongoing efforts to analyze and optimize retail performance, I worked on this supermarket sales analysis project, focusing on key sales and customer data.
 
-#Data Visualization:
+Problem Statement
+The supermarket chain has been experiencing fluctuations in revenue and profit across various product categories. In order to better understand the factors contributing to these changes, the management sought detailed insights into product sales, customer behavior, and overall performance metrics.
 
-Dashboards use charts, graphs, tables, and other visual elements to present data in a way that is easy to understand. This helps users quickly grasp trends, patterns, and insights.
+Task List
+As the data analyst for this project, I was provided with sales data and tasked with the following:
 
-#Real-time Monitoring:
+Dashboard Creation: Develop a comprehensive dashboard that provides an overview of key performance indicators (KPIs) like total unit price, quantity sold, gross income, tax, and customer segmentation.
+Insights Generation: Analyze the performance of various product categories, payment types, and customer segments to derive actionable insights for decision-making.
+Customer Segmentation: Identify sales trends across customer types and payment methods to help management optimize their strategies.
+Data Model
+I utilized data from product categories, payment methods, sales amounts, customer demographics, and store performance. This data was then modeled to highlight sales trends and operational costs, segmented by different variables such as customer type and product line.
 
-Many modern dashboards offer real-time or near-real-time updates, allowing users to stay informed about current conditions or changes in the data. This is particularly valuable in situations where timely decisions are crucial.
+Overall Analysis View
 
-#Customization:
+Unit Price & Quantity: The total unit price was 17.16K, with 2K units sold.
+Gross Income & Tax: The supermarket generated 4.63K in gross income, with an equivalent tax amount of 4.63K.
+Cost Breakdown: Total cost amounted to 97.22K, and the cost of goods sold (COGS) was distributed across customer types with 48K for members and 45K for non-members.
+Segmentation of Payment
+Analyzing the payment methods, 36.96% of customers used cash, followed by 33.33% opting for credit cards, and 29.7% using e-wallets.
 
-Dashboards are often customizable to suit the specific needs of users or organizations. Users can typically choose which metrics or KPIs they want to display and arrange them in a way that makes the most sense for their objectives.
+Insights
 
-#Interactivity:
+Top-selling Product Lines: Fashion accessories and food & beverages lead in terms of total unit prices, contributing 3.7K and 3.4K, respectively.
+Cost Efficiency: Home & lifestyle items displayed a balanced cost-to-sales ratio, while fashion accessories, despite high sales, showed slightly higher costs.
+Payment Trends: The use of cash remains dominant, but credit card usage shows potential for future growth.
+Learnings from the Project
 
-Some dashboards are interactive, enabling users to drill down into the data for more detailed information or adjust parameters to explore different scenarios. This interactivity enhances the user's ability to gain insights.
+Explored advanced Power BI features such as matrix visuals to break down sales performance by product lines.
+Implemented color consistency and themes to maintain a professional and easy-to-read dashboard format.
+Applied data-driven decision-making techniques to identify underperforming product lines and potential areas for cost reduction.
+Important Insights from the Dashboard
 
-#Accessibility:
-
-Dashboards are designed to be user-friendly and accessible to individuals with varying levels of expertise. They aim to present complex data in a simplified and intuitive manner.
-
-#Decision Support:
-
-Dashboards are valuable tools for decision-making. They help users track progress toward goals, identify areas that require attention, and make informed choices based on data-driven insights.
-
-#Types of Dashboards:
-
-There are different types of dashboards, including operational dashboards (focused on day-to-day operations), strategic dashboards (used for long-term planning and goal tracking), and analytical dashboards (for in-depth data analysis).
-
-#Data Sources:
-
-Dashboards can pull data from various sources, such as databases, spreadsheets, APIs, and external services, and consolidate it into a single view.
-
-#Mobile Compatibility:
-
-Many dashboards are designed to be responsive and mobile-friendly, allowing users to access critical information on smartphones and tablets.
-
-#Security and Privacy:
-
-Given the sensitive nature of the data often displayed on dashboards, security and privacy measures are essential to protect the information and restrict access to authorized users.
-
-In conclusion, dashboards play a pivotal role in modern data-driven decision-making processes. They provide a dynamic and visually appealing means of presenting and analyzing data, making them indispensable tools in a wide range of industries and applications. Effective dashboard design and usage can lead to improved operational efficiency, better strategic planning, and more informed decision-making
+Electronic accessories had the highest sales volume with 313 units sold, followed by food and beverages at 349 units.
+Fashion accessories led in terms of revenue, but their cost-to-sales ratio was less efficient compared to other categories.
+The "credit card" payment method shows potential for expansion, with room to increase its market share.
+This analysis equips the supermarket management with data-backed insights for improving sales strategies, optimizing product lines, and enhancing customer experience.
