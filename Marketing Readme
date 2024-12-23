@@ -1,16 +1,17 @@
-Marketing Campaign Analysis - Power BI Dashboard
+*****Marketing Campaign Analysis - Power BI Dashboard*******
 This repository contains a Power BI dashboard project that visualizes and analyzes a company's marketing campaign, providing insights into customer engagement and response patterns across various demographics.
 
-Problem Statement
+******Problem Statement*****
 The marketing department needed a detailed analysis of their recent campaign to evaluate its effectiveness. The goal was to gain insights into customer behavior and responses, allowing for improved targeting and campaign strategies.
 
-Task List
+*******Task List*******
 As a data analyst, my responsibilities included:
 
 Dashboard Creation: Building an interactive Power BI dashboard to visualize key metrics and insights.
 Response Analysis: Analyzing customer responses based on age, marital status, education, and contact type.
 Campaign Optimization: Identifying actionable insights for future campaign improvements.
-Data Model
+
+*******Data Model*******
 The dataset included customer demographics, contact details, and response data. The key dimensions for analysis were:
 
 Gender
@@ -19,6 +20,10 @@ Education
 Age Group
 Contact Type
 Key Metrics
+
+
+
+
 The dashboard highlights the following key metrics:
 
 Total Contacts: 44K customers contacted.
@@ -37,7 +42,10 @@ Married customers had the highest response rate (9.5K), followed by single (4.4K
 Customer Response by Demographics
 Age Group: Younger customers, particularly teenagers, showed the highest engagement.
 Monthly Response: May had the highest customer responses (4.8K), followed by July (2.4K).
-Insights & Learnings
+
+
+
+*******Insights & Learnings*******
 Contact Method: Cell phones were the most effective channel for customer outreach.
 Demographics: Married and university-educated customers responded more positively.
 Campaign Timing: May and July showed the highest engagement, making them optimal months for future campaigns.
