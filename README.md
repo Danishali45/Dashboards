@@ -1,4 +1,4 @@
-Super Market Sales Analysis - Power BI
+** Super Market Sales Analysis - Power BI
 
 As part of my ongoing efforts to analyze and optimize retail performance, I worked on this supermarket sales analysis project, focusing on key sales and customer data.
 
